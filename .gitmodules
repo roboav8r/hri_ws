@@ -1,0 +1,7 @@
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros
+	branch = ros2
+[submodule "src/depthai-ros"]
+	path = src/depthai-ros
+	url = https://github.com/luxonis/depthai-ros.git
