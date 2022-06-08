@@ -5,3 +5,18 @@
 [submodule "src/depthai-ros"]
 	path = src/depthai-ros
 	url = https://github.com/luxonis/depthai-ros.git
+[submodule "src/depthai-ros-examples"]
+	path = src/depthai-ros-examples
+	url = https://github.com/luxonis/depthai-ros-examples.git
+[submodule "src/hri_msgs"]
+	path = src/hri_msgs
+	url = https://github.com/roboav8r/hri_msgs.git
+	branch = foxy-devel
+[submodule "src/hri_skeletons"]
+	path = src/hri_skeletons
+	url = https://github.com/roboav8r/hri_skeletons.git
+	branch = foxy-devel
+[submodule "src/rplidar_ros"]
+	path = src/rplidar_ros
+	url = https://github.com/roboav8r/rplidar_ros.git
+	branch = ros2
